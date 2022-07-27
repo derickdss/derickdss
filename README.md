@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @derickdss
+- 👋 Hi, I’m Derick
 - 👀 I’m interested in Javascript, React, NodeJS and programming on the whole
 - 🌱 I’m currently learning JS, React
 - 💞️ I’m looking to collaborate on ...
