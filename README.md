@@ -2,7 +2,7 @@
 - 👀 I’m interested in Javascript, React, NodeJS and programming on the whole
 - 🌱 I’m currently learning JS, React
 - 💞️ I’m looking to collaborate on Frontend works
-- 📫 How to reach me ...
+- 📫 How to reach me ... `mstrfpts@gmail.com`
 
 <!---
 derickdss/derickdss is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
